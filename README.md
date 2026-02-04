@@ -19,12 +19,12 @@ Besides that:
 ### Hall of fame
 > I think I'm proud of them in some way. At least for the time they were created
 <!-- HALL-OF-FAME-LIST:START -->
-- [MakeFarm](http://grobert.eu/makefarm/)
-- [AimGL](http://grobert.eu/aimgl/)
-- [Worms Similar Game](http://grobert.eu/worms-similar-game/)
-- [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
-- [Grammar](http://grobert.eu/grammar/)
-- [FlapANN](http://grobert.eu/flapann/)
+- [MakeFarm](http://grobert.dev/makefarm/)
+- [AimGL](http://grobert.dev/aimgl/)
+- [Worms Similar Game](http://grobert.dev/worms-similar-game/)
+- [Flappy Bird SFML Clone](http://grobert.dev/flappy-bird-sfml-clone/)
+- [Grammar](http://grobert.dev/grammar/)
+- [FlapANN](http://grobert.dev/flapann/)
 <!-- HALL-OF-FAME-LIST:END -->
 
 ### Recent Individual Projects
