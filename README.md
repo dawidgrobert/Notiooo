@@ -11,7 +11,7 @@ I'm working as C++ Software Engineer at Nokia headquarters in Krakow, Poland.
 
 Besides that:
 - I love C++, but Python is my second language. It's where I started and it's what got me started reading my first programming books.
-- You can follow my book reading progress here: https://books.grobert.eu/
+- You can follow my book reading progress here: https://books.grobert.dev/
 - Computer graphics is my hobby.
 - ...although I also try to play the piano in my spare time.
 

@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "10"
           comment_tag_name: "RECENT-INDIVIDUAL-PROJECTS-LIST"
-          feed_list: "https://grobert.eu/feed/individual-projects/"
+          feed_list: "https://grobert.dev/feed/individual-projects/"

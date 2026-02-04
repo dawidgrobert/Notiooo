@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          feed_list: "https://grobert.eu/feed/blog/"
+          feed_list: "https://grobert.dev/feed/blog/"
