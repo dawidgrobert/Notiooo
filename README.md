@@ -29,12 +29,12 @@ Besides that:
 
 ### Recent Individual Projects
 <!-- RECENT-INDIVIDUAL-PROJECTS-LIST:START -->
-- [Voxel Techniques](http://grobert.eu/voxel-techniques/)
-- [AimGL](http://grobert.eu/aimgl/)
-- [MakeFarm](http://grobert.eu/makefarm/)
-- [Worms Similar Game](http://grobert.eu/worms-similar-game/)
-- [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
-- [Grammar](http://grobert.eu/grammar/)
+- [Voxel Techniques](http://grobert.dev/voxel-techniques/)
+- [AimGL](http://grobert.dev/aimgl/)
+- [MakeFarm](http://grobert.dev/makefarm/)
+- [Worms Similar Game](http://grobert.dev/worms-similar-game/)
+- [Flappy Bird SFML Clone](http://grobert.dev/flappy-bird-sfml-clone/)
+- [Grammar](http://grobert.dev/grammar/)
 <!-- RECENT-INDIVIDUAL-PROJECTS-LIST:END -->
 
 ### Recent Group Projects
