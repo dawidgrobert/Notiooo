@@ -46,8 +46,8 @@ Besides that:
 
 ## Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Arithmetic of decimal numbers with binary coded digits](http://blog.grobert.eu/arithmetic-of-decimal-numbers-with-binary-coded-digits/)
-- [The way „The Onion Router&quot; works](http://blog.grobert.eu/the-way-the-onion-router-works/)
-- [What are &quot;Heaps&quot;? &lpar;for dummies&rpar;](http://blog.grobert.eu/what-are-heaps/)
-- [First post about a shark called &quot;blahaj&quot;.](http://blog.grobert.eu/test-post/)
+- [Arithmetic of decimal numbers with binary coded digits](http://blog.grobert.dev/arithmetic-of-decimal-numbers-with-binary-coded-digits/)
+- [The way „The Onion Router&quot; works](http://blog.grobert.dev/the-way-the-onion-router-works/)
+- [What are &quot;Heaps&quot;? &lpar;for dummies&rpar;](http://blog.grobert.dev/what-are-heaps/)
+- [First post about a shark called &quot;blahaj&quot;.](http://blog.grobert.dev/test-post/)
 <!-- BLOG-POST-LIST:END -->
